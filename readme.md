@@ -31,3 +31,7 @@ Restart the Jenkins service: brew services restart jenkins-lts
 https://www.youtube.com/watch?v=jnDdNcoJjng&list=PLVz2XdJiJQxzMiFDnwxUDxmuZQU3igcBb&index=9
 
 1.00.00
+
+Maven error on jenkins
+https://stackoverflow.com/questions/26906972/cannot-run-program-mvn-error-2-no-such-file-or-directory
+
