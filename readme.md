@@ -22,3 +22,12 @@ Check `docker --version`
 
 https://hub.docker.com/r/msbvarma/spring-boot-docker.jar
 
+Sample commands:
+Install the latest LTS version: brew install jenkins-lts
+Start the Jenkins service: brew services start jenkins-lts
+Restart the Jenkins service: brew services restart jenkins-lts
+
+
+https://www.youtube.com/watch?v=jnDdNcoJjng&list=PLVz2XdJiJQxzMiFDnwxUDxmuZQU3igcBb&index=9
+
+1.00.00
